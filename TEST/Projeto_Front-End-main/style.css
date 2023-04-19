@@ -1,0 +1,46 @@
+.header{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 5px 6px 3px black;
+    -webkit-text-stroke: 1px black;
+    font-family: 'gta';
+    color: rgb(35, 38, 238);
+}
+.btn{
+    padding: 20px 20px;
+   background: transparent;
+   text-align: center;
+   border-radius: 5px;
+   user-select: none;
+   cursor: pointer;
+   font-size: 30px;
+   
+  text-shadow: 3px 3px 3px black, -3px 3px 3px black, -3px 3px 3px black, -3px 3px 3px black;
+  Display: inline-block;
+  Margin: 50px;
+  Padding: 20px;
+  transition: 0.5s;
+
+}
+.btn:hover{
+    tra
+}
+.a{
+    text-decoration: none;
+    Display: inline-block;
+    color: white;
+
+}
+.btn:hover{
+    background:  rgba(0, 0, 0, 0.658);
+    font-size: 35px;
+}
+body{
+    background-image: url(./imagens/Real.jpg);
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-attachment: fixed;
+      margin: 0;
+      padding: 0;
+}
